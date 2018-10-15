@@ -32,7 +32,7 @@ makeCacheMatrix <- function(x = matrix()) {
      getsolve <- function() m
      list(set = set, get = get,
 	     setsolve = setsolve,
-         getsolve = getsolve)
+             getsolve = getsolve)
 }
 
 ## Write a short comment describing this function
